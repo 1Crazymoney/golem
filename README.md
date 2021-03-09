@@ -1,6 +1,6 @@
 # Golem
 
-We have moved on.
+Welcome to Golem's brave new world!
 
 The development of Golem as a platform is now taking place in several new repositories.
 
